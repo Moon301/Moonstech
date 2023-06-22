@@ -1,0 +1,66 @@
+@charset "UTF-8";
+.carousel-item{
+	height: 500px;
+	min-height: 500px;
+	background: no-repeat scroll center scroll;
+	-webkit-background-size: cover;
+	background-size: cover;
+	
+}
+
+
+.carousel-caption{
+	bottom: 70px;
+	padding-bottom: 5px;
+	text-align: left;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+
+
+
+#txt1{
+	font-size: 38px;
+}
+
+#txt2{
+	font-size: 70px;
+	color: #fff;
+}
+#txt3{
+	font-size: 38px;
+}
+#txt4{
+	font-size: 70px;
+}
+
+
+#txt5{
+	font-size: 35px;
+	color: #000;
+}
+
+#txt6{
+	font-size: 70px;
+	color: #000;
+}
+
+
+.navbar{
+	box-shadow: 0px 0px 5px 0px gray;
+}
+.navbar-brand{
+	font-weight: bold;
+	font-size:29px;
+}
+
+.navbar-nav{
+	font-weight: 650;
+	font-size: 17px;
+}
+
+
+ul li {
+	margin-left: 30px
+}
